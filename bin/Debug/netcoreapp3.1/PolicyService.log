@@ -1,0 +1,104 @@
+INFO  04:05:59 Application started. Press Ctrl+C to shut down.
+INFO  04:05:59 Application started. Press Ctrl+C to shut down.
+INFO  04:05:59 Hosting environment: Development
+INFO  04:05:59 Hosting environment: Development
+INFO  04:05:59 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:05:59 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:06:48 Data Fetched for PolicyId :1
+INFO  04:06:48 GetChainOfProviders Accesed for policyId :1
+INFO  04:27:11 Application started. Press Ctrl+C to shut down.
+INFO  04:27:11 Application started. Press Ctrl+C to shut down.
+INFO  04:27:11 Hosting environment: Development
+INFO  04:27:11 Hosting environment: Development
+INFO  04:27:11 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:27:11 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:05:19 Application started. Press Ctrl+C to shut down.
+INFO  04:05:19 Application started. Press Ctrl+C to shut down.
+INFO  04:05:19 Hosting environment: Development
+INFO  04:05:19 Hosting environment: Development
+INFO  04:05:19 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:05:19 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  04:05:33 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  04:05:33 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  04:05:47 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:05:47 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:06:18 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:06:18 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:06:18 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  04:06:18 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  04:06:55 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:06:55 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:06:55 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  04:06:55 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  04:07:28 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:07:28 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:07:28 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  04:07:28 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  04:07:40 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:07:40 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :1 BenefitId :1
+INFO  04:07:40 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  04:07:40 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  04:10:32 Data Fetched for PolicyId :1
+INFO  04:10:32 GetChainOfProviders Accesed for policyId :1
+INFO  11:11:44 Application started. Press Ctrl+C to shut down.
+INFO  11:11:44 Application started. Press Ctrl+C to shut down.
+INFO  11:11:44 Hosting environment: Development
+INFO  11:11:44 Hosting environment: Development
+INFO  11:11:44 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:11:44 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:13:40 Application started. Press Ctrl+C to shut down.
+INFO  11:13:40 Application started. Press Ctrl+C to shut down.
+INFO  11:13:40 Hosting environment: Development
+INFO  11:13:40 Hosting environment: Development
+INFO  11:13:40 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:13:40 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:14:32 Application started. Press Ctrl+C to shut down.
+INFO  11:14:32 Application started. Press Ctrl+C to shut down.
+INFO  11:14:32 Hosting environment: Development
+INFO  11:14:32 Hosting environment: Development
+INFO  11:14:32 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:14:32 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:15:54 Application started. Press Ctrl+C to shut down.
+INFO  11:15:54 Application started. Press Ctrl+C to shut down.
+INFO  11:15:54 Hosting environment: Development
+INFO  11:15:54 Hosting environment: Development
+INFO  11:15:54 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:15:54 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:21:40 GetEligibleBenefit is accessed for MemberId :1 PolicyId :1
+INFO  11:21:40 Data fetched in GetEligibleBenefit for the entered MemberId :1 PolicyId :1
+INFO  11:21:47 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:21:47 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:22:16 GetEligibleBenefit is accessed for MemberId :2 PolicyId :2
+INFO  11:22:16 Data not found in GetEligibleBenefit for the entered MemberId :2 PolicyId :2
+INFO  11:22:21 GetEligibleBenefit is accessed for MemberId :1 PolicyId :2
+INFO  11:22:21 Data not found in GetEligibleBenefit for the entered MemberId :1 PolicyId :2
+INFO  11:24:27 GetEligibleBenefit is accessed for MemberId :3 PolicyId :2
+INFO  11:24:27 Data fetched in GetEligibleBenefit for the entered MemberId :3 PolicyId :2
+INFO  11:25:18 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:25:18 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:26:32 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:26:32 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:26:32 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:26:32 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:36:17 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:36:17 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:36:17 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:36:17 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:47:59 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:47:59 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:47:59 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:47:59 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:48:18 GetEligibleBenefit is accessed for MemberId :3 PolicyId :2
+INFO  11:48:18 Data fetched in GetEligibleBenefit for the entered MemberId :3 PolicyId :2
+INFO  11:48:37 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:48:37 Data fetched for GetEligibleAmount for the entered PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:48:40 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:48:40 Data fetched for GetEligibleAmount for the entered PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:49:23 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:49:23 Data fetched for GetEligibleAmount for the entered PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:49:23 GetEligibleBenefit is accessed for MemberId :3 PolicyId :2
+INFO  11:49:23 Data fetched in GetEligibleBenefit for the entered MemberId :3 PolicyId :2
+INFO  11:50:07 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:50:07 Data fetched for GetEligibleAmount for the entered PolicyId :2 MemberId :3 BenefitId :1
+INFO  11:50:07 GetEligibleBenefit is accessed for MemberId :3 PolicyId :2
+INFO  11:50:07 Data fetched in GetEligibleBenefit for the entered MemberId :3 PolicyId :2
