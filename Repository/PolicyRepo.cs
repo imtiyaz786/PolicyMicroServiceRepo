@@ -1,17 +1,13 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
-using PolicyMicroservice.Models;
+﻿using PolicyMicroservice.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Threading.Tasks;
 using System.Web.Http;
 
 namespace PolicyMicroservice.Repository
 {
     /// <summary>
-    /// Contributed By Anupam Bhattacharyya(848843)
     /// </summary>
     public class PolicyRepo : IPolicyRepo
     {

@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using PolicyMicroservice.Repository;
+using System;
 
 namespace PolicyMicroservice.Controllers
 {
 
     /// <summary>
-    /// Contributed By Anupam Bhattacharyya(848843)
     /// </summary>
     [Route("api/[controller]")]
     [ApiController]
@@ -32,8 +27,8 @@ namespace PolicyMicroservice.Controllers
 
         //http://52.224.146.148/api/Policy/GetChainOfProviders/1
         [HttpGet]
-        [Route("GetChainOfProviders/{PolicyID}")]
-        public IActionResult GetChainOfProviders(int policyId)
+        [Route("GetChainOfProviders")]
+        public IActionResult GetChainOfProviders([FromQuery]int policyId)
         {
             try
             {

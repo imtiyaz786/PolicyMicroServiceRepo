@@ -5,7 +5,12 @@
       "ProjectGuid": "f7fb7d2b-121b-4465-aa99-16553c2e8ed7",
       "DisplayName": "PolicyMicroservice",
       "ColorIndex": 0
+    },
+    "02007389-9a58-4f31-86d0-4b678c46abf4": {
+      "ProjectGuid": "02007389-9a58-4f31-86d0-4b678c46abf4",
+      "DisplayName": "PolicyMicroserviceTest",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

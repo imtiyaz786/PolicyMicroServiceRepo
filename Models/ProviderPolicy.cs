@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace PolicyMicroservice.Models
 {
     /// <summary>
-    /// Contributed By Anupam Bhattacharyya(848843)
+    /// Contributed By Team 2
     /// </summary>
     public class ProviderPolicy
     {

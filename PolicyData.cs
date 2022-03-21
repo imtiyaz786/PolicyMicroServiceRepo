@@ -19,7 +19,7 @@ namespace PolicyMicroservice
         { 
            new MemberPolicy{MemberId=1,PolicyId=1,PolicyNo=101,BenefitId=1,Tenure=3,SubscriptionDate=new DateTime(2020, 03, 15),CapAmountBenefits=100000.00},
            new MemberPolicy{MemberId=2,PolicyId=1,PolicyNo=101,BenefitId=1,Tenure=3,SubscriptionDate=new DateTime(2019, 04, 18),CapAmountBenefits=120000.00},
-           new MemberPolicy{MemberId=3,PolicyId=2,PolicyNo=102,BenefitId=1,Tenure=5,SubscriptionDate=new DateTime(2019, 05, 10),CapAmountBenefits=80000.00}
+           new MemberPolicy{MemberId=3,PolicyId=2,PolicyNo=102,BenefitId=2,Tenure=5,SubscriptionDate=new DateTime(2019, 05, 10),CapAmountBenefits=80000.00}
         };
 
         public static List<ProviderPolicy> providerpolicyList = new List<ProviderPolicy>

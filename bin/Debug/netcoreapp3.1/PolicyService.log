@@ -102,3 +102,11 @@ INFO  11:50:07 GetEligibleClaimAmount is accesed for PolicyId :2 MemberId :3 Ben
 INFO  11:50:07 Data fetched for GetEligibleAmount for the entered PolicyId :2 MemberId :3 BenefitId :1
 INFO  11:50:07 GetEligibleBenefit is accessed for MemberId :3 PolicyId :2
 INFO  11:50:07 Data fetched in GetEligibleBenefit for the entered MemberId :3 PolicyId :2
+INFO  05:28:01 Application started. Press Ctrl+C to shut down.
+INFO  05:28:01 Application started. Press Ctrl+C to shut down.
+INFO  05:28:01 Hosting environment: Development
+INFO  05:28:01 Hosting environment: Development
+INFO  05:28:01 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:28:01 Content root path: C:\Users\2085385\OneDrive - Cognizant\Desktop\ClaimManagementSystem-2\PolicyMicroservice
+INFO  05:28:10 Data Fetched for PolicyId :1
+INFO  05:28:10 GetChainOfProviders Accesed for policyId :1
